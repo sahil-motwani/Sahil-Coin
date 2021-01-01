@@ -22,4 +22,4 @@ The nodes
 you have to add this json in postman of each node except the nodes own addresss while adding nodes to blockchain using add_node method
 
 Note** You can replicate the same code and create many different nodes by just changing the keys.
-In this project public key is basically the name 
+In this project public key is basically the name of the node
